@@ -1,6 +1,8 @@
 ## Skills🔨
 - JavaScript
- - Vue.js
+
+  - Vue.js
+  
 - TypeScript
 
 
